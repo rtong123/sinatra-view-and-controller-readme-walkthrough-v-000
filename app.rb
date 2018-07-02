@@ -18,5 +18,4 @@ get '/friends' do
   erb :friends
 end
 
-  end
 end
